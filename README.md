@@ -18,8 +18,8 @@
 ![AutoHotkey](https://img.shields.io/badge/autohotkey-00ff00?style=for-the-badge&logo=autohotkey&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Recoil](https://img.shields.io/badge/recoil-%3578E5?style=for-the-badge&logo=recoil-&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Recoil](https://camo.githubusercontent.com/ae2a7215898a45a41d33b8151b11558ff897782986352a47d6b42b35089593f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265636f696c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265636f696c266c6f676f436f6c6f723d7768697465)
+![Firebase](https://camo.githubusercontent.com/253f4842177fe68f329fc1713537477b92aca3f29edf52b1dbced68ae3262eed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365)
 
 # Design 🎨
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
