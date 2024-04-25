@@ -5,8 +5,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just0neMoment&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Just0neMoment&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Just0neMoment&theme=2077)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Just0neMoment&show_icons=true&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Just0neMoment&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Just0neMoment&theme=2077&utcOffset=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Just0neMoment&show_icons=true&theme=tokyonight)
 
 # Stack 💎
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
