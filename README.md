@@ -5,7 +5,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just0neMoment&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Just0neMoment&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Just0neMoment&theme=2077&utcOffset=8)
-![Just0neMoment's GitHub stats](https://github-readme-stats.vercel.app/api?username=Just0neMoment&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Just0neMoment&show_icons=true&theme=radical" width="340px" />
 [![Just0neMoment's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Just0neMoment)](https://github.com/anuraghazra/github-readme-stats)
 
 # Stack 💎
