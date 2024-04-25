@@ -18,7 +18,7 @@
 ![AutoHotkey](https://img.shields.io/badge/autohotkey-00ff00?style=for-the-badge&logo=autohotkey&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Recoil](https://img.shields.io/badge/recoil-%#3578E5?style=for-the-badge&logo=recoil-&logoColor=white)
+![Recoil](https://img.shields.io/badge/recoil-%3578E5?style=for-the-badge&logo=recoil-&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 # Design 🎨
