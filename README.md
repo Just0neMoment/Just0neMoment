@@ -8,7 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Just0neMoment&show_icons=true&theme=radical" width="340px" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Just0neMoment" width="340px" />
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Just0neMoment?pet-id=1" width="680"/>
+  <img src="https://render.gitanimals.org/farms/Just0neMoment?pet-id=1" width="680"/>
 </a>
 
 # Stack 💎
