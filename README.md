@@ -12,11 +12,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![AutoHotkey](https://img.shields.io/badge/autohotkey-00ff00?style=for-the-badge&logo=autohotkey&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Recoil](https://camo.githubusercontent.com/ae2a7215898a45a41d33b8151b11558ff897782986352a47d6b42b35089593f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265636f696c2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265636f696c266c6f676f436f6c6f723d7768697465)
-![Firebase](https://camo.githubusercontent.com/253f4842177fe68f329fc1713537477b92aca3f29edf52b1dbced68ae3262eed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669726562617365)
+![Recoil](https://img.shields.io/badge/표시할이름-배경색.svg?style=for-the-badge&logo=뱃지이름&logoColor=white)
+![Recoil](https://img.shields.io/badge/recoil-3578E5.svg?style=for-the-badge&logo=recoil&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![ReactQuery](https://img.shields.io/badge/react-query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+![AutoHotkey](https://img.shields.io/badge/autohotkey-00ff00?style=for-the-badge&logo=autohotkey&logoColor=white)
 
 # Design 🎨
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
