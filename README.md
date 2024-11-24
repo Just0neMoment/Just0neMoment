@@ -1,6 +1,5 @@
 # About Me 💚
-💻 I wanna be Fullstack developer ! <br>
-🌟 Motto : The ocean doesn't get wet by rain
+How do i look ? <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just0neMoment&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Just0neMoment&theme=2077)
@@ -8,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Just0neMoment&show_icons=true&theme=radical" width="340px" />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Just0neMoment" width="340px" />
 
-# Stack 💎
+# Can use 💎
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
