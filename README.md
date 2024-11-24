@@ -1,5 +1,5 @@
 # About Me 💚
-How do i look ? <br>
+<strong> How do i look ?</strong> <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Just0neMoment&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Just0neMoment&theme=2077)
