@@ -13,10 +13,9 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Recoil](https://img.shields.io/badge/표시할이름-배경색.svg?style=for-the-badge&logo=뱃지이름&logoColor=white)
 ![Recoil](https://img.shields.io/badge/recoil-3578E5.svg?style=for-the-badge&logo=recoil&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![ReactQuery](https://img.shields.io/badge/react-query-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+![ReactQuery](https://img.shields.io/badge/reactquery-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
 ![AutoHotkey](https://img.shields.io/badge/autohotkey-00ff00?style=for-the-badge&logo=autohotkey&logoColor=white)
 
 # Design 🎨
